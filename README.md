@@ -57,5 +57,5 @@
   - [ Visual Studio 2019 ]
 - **AutoEncoder 알고리즘을 이용한 건전지의 불량 검사 및 분류장비 제작**
   - 기간 : 2021.09.~12. | 3M |
-  - [ C++, MFC, OpenCV, Basler Pylon ]
-  - [ Visual Studio 2019, Arduino ]
+  - [ C++, MFC, OpenCV, Basler Pylon, Python, Keras ]
+  - [ Visual Studio 2019, Arduino, Jupiter ]
