@@ -1,6 +1,28 @@
 # 박주형 Profile
 
 ## 사용 프로그래밍 언어
+- C
+- C++
+- Python
+- java
+- Markdown
+- CUDA GPUPU
+
+## 사용 라이브러리
+- MFC
+- OpenCV
+- OpenGL
+- OpenAR
+- Darknet
+- VTK
+- Basler Pylon
+- EziServo-FASTECH
+
+## Programming Tools
+- Visual Studio 2017, 2019, 2022
+- Arduino
+- Android Studio
+- Jupiter
 
 ## 제작한 프로젝트
 - **MFC Darknet YOLO 실행장치**
@@ -38,7 +60,7 @@
 - **브러쉬리스 모터 제어 (기본)**
   - 기간 : 2022.02. | 1M |
   - [ c++, MFC, OpenCV ]
-  - [ Visual Studio 2019, 2022, Darknet ]
+  - [ Visual Studio 2019, 2022, Arduino ]
 - **3축 스테이지 로봇을 활용한 각종 기능 제작**
   - 기간 : 2022.02. | 2w |
   - [ c++, MFC, OpenCV, Basler Pylon, Ezi-Servo FASTECH ]
