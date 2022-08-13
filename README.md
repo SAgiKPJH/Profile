@@ -86,3 +86,29 @@
   - 기간 : 2021.09.~12. | 3M |
   - [ C++, MFC, OpenCV, Basler Pylon, Python, Keras ]
   - [ Visual Studio 2019, Arduino, Jupiter ]
+
+### 진행중인 프로젝트
+- **CUDA 프로그래밍 가이드 제작**
+  - 기간 : 2022.01.~06. | 5M |
+  - [ C, CUDA GPUPU ]
+  - [ Visual Studio 2019, 2022 ]
+- **ESP8266을 활용한 각종 기능 구현**
+  - 기간 : 2022.08.~ |  |
+  - [ C, AVR, Arduino ]
+  - [ Microchip Studio(AVR Studio), Arduino ]
+- **Darknet YOLO를 활용한 화재감지기 제작**
+  - 기간 : 2022.03.~ |  |
+  - [ C, Darknet ]
+  - [ Visual Studio 2019, 2022, Darknet ]
+- **유전자 알고리즘을 활용한 나무 제작**
+  - 기간 : 2022.01.~ |  |
+  - [ C#, Unity ]
+  - [ Unity, Visual Studio 2019, 2022, VScode ]
+- **Raspberry-Pi를 활용한 StreoVision**
+  - 기간 : ..~ |  |
+  - [ C, OpenCV, Python ]
+  - [ - ]
+- **Raspberry-Pi를 활용한 자동 물고기 먹이주기 프로젝트**
+  - 기간 : ..~ |  |
+  - [ C, OpenCV, Python ]
+  - [ - ]
