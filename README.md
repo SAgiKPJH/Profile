@@ -87,7 +87,7 @@
   - [ C++, MFC, OpenCV, Basler Pylon, Python, Keras ]
   - [ Visual Studio 2019, Arduino, Jupiter ]
 
-### 진행중인 프로젝트
+## 진행중인 프로젝트
 - **CUDA 프로그래밍 가이드 제작**
   - 기간 : 2022.01.~06. | 5M |
   - [ C, CUDA GPUPU ]
