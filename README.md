@@ -92,7 +92,7 @@
   - 기간 : 2022.01.~06. | 5M |
   - [ C, CUDA GPUPU ]
   - [ Visual Studio 2019, 2022 ]
-- **ESP8266을 활용한 각종 기능 구현**
+- [**ESP8266을 활용한 각종 기능 구현**](https://github.com/SagiK-Repository/ESP8266-WiFi-Curriculum)
   - 기간 : 2022.08.~ |  |
   - [ C, AVR, Arduino ]
   - [ Microchip Studio(AVR Studio), Arduino ]
