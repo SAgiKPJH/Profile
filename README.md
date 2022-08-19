@@ -39,7 +39,7 @@
   - 기간 : 2022.07. | 1d |
   - [ c++, MFC, OpenCV ]
   - [ Visual Studio 2019, 2022, Darknet ]
-- **PMP(Phase Measuring Profilometry) 알고리즘을 이용한 라즈베리파이 불량 검사장비 제작**
+- ⭐**PMP(Phase Measuring Profilometry) 알고리즘을 이용한 라즈베리파이 불량 검사장비 제작** 
   - 기간 : 2022.03.~06. | 3M |
   - [ C++, MFC, OpenCV, MySQL, CUDA GPUPU, VTK, Basler Pylon, EziServo-FASTECH ]
   - [ Visual Studio 2019, 2022 ]
@@ -87,7 +87,7 @@
   - 기간 : 2021.12. | 3w |
   - [ C++, MFC, OpenCV ]
   - [ Visual Studio 2019 ]
-- **AutoEncoder 알고리즘을 이용한 건전지의 불량 검사 및 분류장비 제작**
+- ⭐**AutoEncoder 알고리즘을 이용한 건전지의 불량 검사 및 분류장비 제작**
   - 기간 : 2021.09.~12. | 3M |
   - [ C++, MFC, OpenCV, Basler Pylon, Python, Keras ]
   - [ Visual Studio 2019, Arduino, Jupiter ]
