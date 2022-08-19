@@ -33,7 +33,7 @@
 ## 제작한 프로젝트
 - [ESP8266을 활용한 WeatherStation 제작](https://github.com/SagiK-Repository/ESP8266-WiFi-Curriculum/tree/main/Chapter%202.%20ESP8266%20Weather%20Station)
   - 기간 : 2022.08.13.~19. | 6d |
-  - [ c++, http, json ]
+  - [ c++, json ]
   - [ Arduino IDE ]
 - **MFC Darknet YOLO 실행장치**
   - 기간 : 2022.07. | 1d |
