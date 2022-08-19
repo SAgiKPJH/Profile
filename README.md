@@ -100,7 +100,7 @@
 - [**ESP8266을 활용한 각종 기능 구현**](https://github.com/SagiK-Repository/ESP8266-WiFi-Curriculum)
   - 기간 : 2022.08.~ |  |
   - [ C, AVR, Arduino ]
-  - [ Microchip Studio(AVR Studio), Arduino ]
+  - [ Microchip Studio(AVR Studio), Arduino IDE ]
 - **Darknet YOLO를 활용한 화재감지기 제작**
   - 기간 : 2022.03.~ |  |
   - [ C, Darknet ]
