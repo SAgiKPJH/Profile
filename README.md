@@ -31,6 +31,10 @@
 - 프로그래밍 공부 기간 : 2010년~
 
 ## 제작한 프로젝트
+- [Image StereoVision in C++, python](https://github.com/SagiK-Repository/StereoVision/tree/main/2%2C%203.%20Image%20StereoVision%20in%20PC%20C%2B%2B%20%26%20Python)
+  - 기간 : 2022.08.25.~28. | 3d |
+  - [ C++, python ]
+  - [ Visual Studio 2019, Anaconda3 Jupyter, Google Colab ]
 - [ESP8266을 활용한 WeatherStation 제작](https://github.com/SagiK-Repository/ESP8266-WiFi-Curriculum/tree/main/Chapter%202.%20ESP8266%20Weather%20Station)
   - 기간 : 2022.08.13.~19. | 6d |
   - [ c++, json ]
