@@ -40,7 +40,7 @@
   - [ c++, json ]
   - [ Arduino IDE ]
 - **MFC Darknet YOLO 실행장치**  
-  <img src="https://user-images.githubusercontent.com/66783849/189497177-b42df251-78df-49c7-9265-6440afae79cb.jpg" width="15%">
+  <img src="https://user-images.githubusercontent.com/66783849/189497177-b42df251-78df-49c7-9265-6440afae79cb.jpg" width="25%">
   - 기간 : 2022.07. | 1d |
   - [ c++, MFC, OpenCV ]
   - [ Visual Studio 2019, 2022, Darknet ]
