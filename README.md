@@ -48,7 +48,8 @@
   - 기간 : 2022.03.~06. | 3M |
   - [ C++, MFC, OpenCV, MySQL, CUDA GPUPU, VTK, Basler Pylon, EziServo-FASTECH ]
   - [ Visual Studio 2019, 2022 ]
-- **OpenCV를 활용한 Laser 3D Scanner 제작**
+- **OpenCV를 활용한 Laser 3D Scanner 제작**  
+  <img src="https://user-images.githubusercontent.com/66783849/189496704-dfac21aa-8c14-4fcb-8233-a3dc4d3a04f2.png" width="30%">
   - 기간 : 2022.06. | 1M |
   - [ C++, OpenCV, VTK ]
   - [ Visual Studio 2019 ]
