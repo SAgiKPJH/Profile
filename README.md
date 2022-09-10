@@ -43,7 +43,8 @@
   - 기간 : 2022.07. | 1d |
   - [ c++, MFC, OpenCV ]
   - [ Visual Studio 2019, 2022, Darknet ]
-- ⭐**PMP(Phase Measuring Profilometry) 알고리즘을 이용한 라즈베리파이 불량 검사장비 제작** 
+- ⭐**PMP(Phase Measuring Profilometry) 알고리즘을 이용한 라즈베리파이 불량 검사장비 제작**  
+  <img src="https://user-images.githubusercontent.com/66783849/189496390-272674ef-a583-46fb-87d2-496fff328668.png" width="30%">
   - 기간 : 2022.03.~06. | 3M |
   - [ C++, MFC, OpenCV, MySQL, CUDA GPUPU, VTK, Basler Pylon, EziServo-FASTECH ]
   - [ Visual Studio 2019, 2022 ]
