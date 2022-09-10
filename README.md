@@ -95,12 +95,21 @@
   - 기간 : 2021.09.~12. | 3M |
   - [ C++, MFC, OpenCV, Basler Pylon, Python, Keras ]
   - [ Visual Studio 2019, Arduino, Jupiter ]
-- **HTML SDL Mandelbrot-Set 구현**
+- [Scratch Maple Sroty 게임 제작](https://scratch.mit.edu/projects/164786564/)  
+  <img src="https://user-images.githubusercontent.com/66783849/189494270-8c206b8d-7ce0-4179-a69f-060dc3100d37.png" width="30%">
+  - 기간 : 2020.11.10. | ?? |
+  - [ Scratch ]
+- **HTML SDL Mandelbrot-Set 구현**  
+  <img src="https://user-images.githubusercontent.com/66783849/189494242-2f7fb650-2228-46db-bea6-b1c57e5e6528.PNG" width="30%">
   - 기간 : 2018.03.29. | ?? |
   - [ C, SDL ]
   - [ Visual Studio 2015 ]
-- **C언어 SDL Mandelbrot-Set 구현**  
-  <img src="https://user-images.githubusercontent.com/66783849/189493638-474d288e-d98d-4e7e-85cd-5301900177ba.png" width="30%">
+- [Scratch Mandelbrot-Set 구현](https://scratch.mit.edu/projects/155117653/)  
+  <img src="https://user-images.githubusercontent.com/66783849/189494202-c6ed100f-7f1b-44ce-ab0f-07f1a51a0f8d.PNG" width="30%">
+  - 기간 : 2017.04.11. | ?? |
+  - [ Scratch ]
+- **C언어 SDL Mandelbrot-Set 구현**
+  - <img src="https://user-images.githubusercontent.com/66783849/189493638-474d288e-d98d-4e7e-85cd-5301900177ba.png" width="30%">
   - 기간 : 2016.04.28. | ?? |
   - [ C, SDL ]
   - [ Visual Studio 2015 ]
