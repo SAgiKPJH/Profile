@@ -91,10 +91,19 @@
   - 기간 : 2021.12. | 3w |
   - [ C++, MFC, OpenCV ]
   - [ Visual Studio 2019 ]
-- ⭐**AutoEncoder 알고리즘을 이용한 건전지의 불량 검사 및 분류장비 제작**
+- ⭐**AutoEncoder 알고리즘을 이용한 건전지의 불량 검사 및 분류장비 제작**  
+  <img src="https://user-images.githubusercontent.com/66783849/189496041-99b3918d-7302-4c03-acb3-9cf1b89172e0.png" width="30%">
   - 기간 : 2021.09.~12. | 3M |
   - [ C++, MFC, OpenCV, Basler Pylon, Python, Keras ]
   - [ Visual Studio 2019, Arduino, Jupiter ]
+- **Python Excel 명단 취합 자동화**
+  - 기간 : 2021.01-09. | ?? |
+  - [ Python ]
+  - [ Visual Studio 2019 ]
+- **Python E-mail 파이썬 수학문제 보내기 프로젝트**
+  - 기간 : 2021.01.09. | ?? |
+  - [ Python ]
+  - [ Visual Studio 2019 ]
 - **🎮Unity 신목 게임 제작**  
   <img src="https://user-images.githubusercontent.com/66783849/189494774-79347d74-18d2-4dea-9049-e1af5e435a25.png" width="15%">
   - 기간 : 2020.05.13.~24. | 1W |
