@@ -26,7 +26,7 @@
 - Jupiter
 
 ## 기타사항
-- 개발자 기간 : 2022.08.~ | 2W |
+- 개발자 기간 : 2022.08.~ | 1M 3W |
 - 개발자 단계 : 신입개발자
 - 프로그래밍 공부 기간 : 2010년~
 
@@ -95,6 +95,15 @@
   - 기간 : 2021.09.~12. | 3M |
   - [ C++, MFC, OpenCV, Basler Pylon, Python, Keras ]
   - [ Visual Studio 2019, Arduino, Jupiter ]
+- **HTML SDL Mandelbrot-Set 구현**
+  - 기간 : 2018.03.29. | ?? |
+  - [ C, SDL ]
+  - [ Visual Studio 2015 ]
+- **C언어 SDL Mandelbrot-Set 구현**
+  - <img src="https://user-images.githubusercontent.com/66783849/189493638-474d288e-d98d-4e7e-85cd-5301900177ba.png" width="30%">
+  - 기간 : 2016.04.28. | ?? |
+  - [ C, SDL ]
+  - [ Visual Studio 2015 ]
 
 ## 진행중인 프로젝트
 - **CUDA 프로그래밍 가이드 제작**
