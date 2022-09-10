@@ -118,8 +118,8 @@
   - 기간 : 2016.04.28. | ?? |
   - [ C, SDL ]
   - [ Visual Studio 2015 ]
-- **C언어 AVR 식물 자동 조명기**  
-  <img src="https://user-images.githubusercontent.com/66783849/189495189-7ba1b66b-f675-4eb0-b26d-fd62b4adb924.png" width="15%">
+- **AVR 식물 자동 조명기**  
+  <img src="https://user-images.githubusercontent.com/66783849/189495189-7ba1b66b-f675-4eb0-b26d-fd62b4adb924.png" width="7%">
   - 기간 : 2016.02.27. | ?? |
   - [ C, AVR ]
   - [ AtmelStudio ]
