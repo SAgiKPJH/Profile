@@ -99,8 +99,8 @@
   - 기간 : 2018.03.29. | ?? |
   - [ C, SDL ]
   - [ Visual Studio 2015 ]
-- **C언어 SDL Mandelbrot-Set 구현**
-  - <img src="https://user-images.githubusercontent.com/66783849/189493638-474d288e-d98d-4e7e-85cd-5301900177ba.png" width="30%">
+- **C언어 SDL Mandelbrot-Set 구현**  
+  <img src="https://user-images.githubusercontent.com/66783849/189493638-474d288e-d98d-4e7e-85cd-5301900177ba.png" width="30%">
   - 기간 : 2016.04.28. | ?? |
   - [ C, SDL ]
   - [ Visual Studio 2015 ]
