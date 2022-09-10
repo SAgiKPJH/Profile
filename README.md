@@ -96,7 +96,7 @@
   - [ C++, MFC, OpenCV, Basler Pylon, Python, Keras ]
   - [ Visual Studio 2019, Arduino, Jupiter ]
 - **🎮Unity 신목 게임 제작**  
-  <img src="https://user-images.githubusercontent.com/66783849/189494774-79347d74-18d2-4dea-9049-e1af5e435a25.png" width="30%">
+  <img src="https://user-images.githubusercontent.com/66783849/189494774-79347d74-18d2-4dea-9049-e1af5e435a25.png" width="15%">
   - 기간 : 2020.05.13.~24. | 1W |
   - [ C# ]
   - [ Unity, Visual Studio 2019 ]
@@ -118,6 +118,23 @@
   - 기간 : 2016.04.28. | ?? |
   - [ C, SDL ]
   - [ Visual Studio 2015 ]
+- **C언어 AVR 식물 자동 조명기**  
+  <img src="https://user-images.githubusercontent.com/66783849/189495189-7ba1b66b-f675-4eb0-b26d-fd62b4adb924.png" width="15%">
+  - 기간 : 2016.02.27. | ?? |
+  - [ C, AVR ]
+  - [ AtmelStudio ]
+- **C언어 SDL CROSS - 간단 기계학습**
+  - 기간 : 2015.03.01. | ?? |
+  - [ C, SDL ]
+  - [ Visual Studio 2013 ]
+- **C언어 SDL 태양계 Simulator 제작**
+  - 기간 : 2014.11.28. | ?? |
+  - [ C, SDL ]
+  - [ Visual Studio 2013 ]
+- **🎮C언어 SDL MapleStroy 미니게임 제작**
+  - 기간 : 2014.08.18. | ?? |
+  - [ C, SDL ]
+  - [ Visual Studio 2013 ]
 
 ## 진행중인 프로젝트
 - **CUDA 프로그래밍 가이드 제작**
