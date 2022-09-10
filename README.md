@@ -31,11 +31,11 @@
 - 프로그래밍 공부 기간 : 2010년~
 
 ## 제작한 프로젝트
-- [Image StereoVision in C++, python](https://github.com/SagiK-Repository/StereoVision/tree/main/2%2C%203.%20Image%20StereoVision%20in%20PC%20C%2B%2B%20%26%20Python)
+- [**Image StereoVision in C++, python**](https://github.com/SagiK-Repository/StereoVision/tree/main/2%2C%203.%20Image%20StereoVision%20in%20PC%20C%2B%2B%20%26%20Python)
   - 기간 : 2022.08.25.~28. | 3d |
   - [ C++, python, OpenCV ]
   - [ Visual Studio 2019, Anaconda3 Jupyter, Google Colab ]
-- [ESP8266을 활용한 WeatherStation 제작](https://github.com/SagiK-Repository/ESP8266-WiFi-Curriculum/tree/main/Chapter%202.%20ESP8266%20Weather%20Station)
+- [**ESP8266을 활용한 WeatherStation 제작**](https://github.com/SagiK-Repository/ESP8266-WiFi-Curriculum/tree/main/Chapter%202.%20ESP8266%20Weather%20Station)
   - 기간 : 2022.08.13.~19. | 6d |
   - [ c++, json ]
   - [ Arduino IDE ]
@@ -95,7 +95,7 @@
   - 기간 : 2021.09.~12. | 3M |
   - [ C++, MFC, OpenCV, Basler Pylon, Python, Keras ]
   - [ Visual Studio 2019, Arduino, Jupiter ]
-- [Scratch Maple Sroty 게임 제작](https://scratch.mit.edu/projects/164786564/)  
+- [**Scratch Maple Sroty 게임 제작**](https://scratch.mit.edu/projects/164786564/)  
   <img src="https://user-images.githubusercontent.com/66783849/189494270-8c206b8d-7ce0-4179-a69f-060dc3100d37.png" width="15%">
   - 기간 : 2020.11.10. | ?? |
   - [ Scratch ]
@@ -104,7 +104,7 @@
   - 기간 : 2018.03.29. | ?? |
   - [ C, SDL ]
   - [ Visual Studio 2015 ]
-- [Scratch Mandelbrot-Set 구현](https://scratch.mit.edu/projects/155117653/)  
+- [**Scratch Mandelbrot-Set 구현**](https://scratch.mit.edu/projects/155117653/)  
   <img src="https://user-images.githubusercontent.com/66783849/189494202-c6ed100f-7f1b-44ce-ab0f-07f1a51a0f8d.PNG" width="15%">
   - 기간 : 2017.04.11. | ?? |
   - [ Scratch ]
