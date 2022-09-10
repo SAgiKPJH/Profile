@@ -95,9 +95,14 @@
   - 기간 : 2021.09.~12. | 3M |
   - [ C++, MFC, OpenCV, Basler Pylon, Python, Keras ]
   - [ Visual Studio 2019, Arduino, Jupiter ]
-- [**Scratch Maple Sroty 게임 제작**](https://scratch.mit.edu/projects/164786564/)  
+- **🎮Unity 신목 게임 제작**  
+  <img src="https://user-images.githubusercontent.com/66783849/189494774-79347d74-18d2-4dea-9049-e1af5e435a25.png" width="15%">
+  - 기간 : 2020.05.13.~24. | 1W |
+  - [ C# ]
+  - [ Unity, Visual Studio 2019 ]
+- [**🎮 Scratch Maple Sroty 게임 제작**](https://scratch.mit.edu/projects/164786564/)  
   <img src="https://user-images.githubusercontent.com/66783849/189494270-8c206b8d-7ce0-4179-a69f-060dc3100d37.png" width="15%">
-  - 기간 : 2020.11.10. | ?? |
+  - 기간 : 2017.06.01.~14. | 2W |
   - [ Scratch ]
 - **HTML SDL Mandelbrot-Set 구현**  
   <img src="https://user-images.githubusercontent.com/66783849/189494242-2f7fb650-2228-46db-bea6-b1c57e5e6528.PNG" width="15%">
