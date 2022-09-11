@@ -40,7 +40,7 @@
   - [ c++, json ]
   - [ Arduino IDE ]
 - **MFC Darknet YOLO 실행장치**  
-  <img src="https://user-images.githubusercontent.com/66783849/189497177-b42df251-78df-49c7-9265-6440afae79cb.jpg" width="25%">
+  <img src="https://user-images.githubusercontent.com/66783849/189497177-b42df251-78df-49c7-9265-6440afae79cb.jpg" width="15%">
   - 기간 : 2022.07. | 1d |
   - [ c++, MFC, OpenCV ]
   - [ Visual Studio 2019, 2022, Darknet ]
@@ -99,6 +99,15 @@
   - 기간 : 2021.09.~12. | 3M |
   - [ C++, MFC, OpenCV, Basler Pylon, Python, Keras ]
   - [ Visual Studio 2019, Arduino, Jupiter ]
+- **🎮 MFC 겔러그 게임 만들기**  
+  <img src="https://user-images.githubusercontent.com/66783849/189506271-4b18ef23-34f4-4617-927b-480bc5948ec1.png" width="30%">
+  - 기간 : 2021.05.13. | 3h |
+  - [ C++, MFC ]
+  - [ Visual Studio 2019 ]
+- **MFC 계산기(Calculator) 만들기**
+  - 기간 : 	2021.04.29. | 1W |
+  - [ C++, MFC ]
+  - [ Visual Studio 2019 ]
 - **Python Excel 명단 취합 자동화**
   - 기간 : 2021.01-09. | ?? |
   - [ Python ]
