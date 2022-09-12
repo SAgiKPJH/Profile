@@ -3,6 +3,7 @@
 ## 사용 프로그래밍 언어
 - C
 - C++
+- C#
 - Python
 - java
 - CUDA GPUPU
@@ -18,6 +19,8 @@
 - VTK
 - Basler Pylon
 - EziServo-FASTECH
+- .NET Framework
+- .NET Framework WinForm
 
 ## Programming Tools
 - Visual Studio 2017, 2019, 2022
@@ -125,7 +128,7 @@
   <img src="https://user-images.githubusercontent.com/66783849/189494270-8c206b8d-7ce0-4179-a69f-060dc3100d37.png" width="15%">
   - 기간 : 2017.06.01.~14. | 2W |
   - [ Scratch ]
-- **HTML SDL Mandelbrot-Set 구현**  
+- **HTML Mandelbrot-Set 구현**  
   <img src="https://user-images.githubusercontent.com/66783849/189494242-2f7fb650-2228-46db-bea6-b1c57e5e6528.PNG" width="15%">
   - 기간 : 2018.03.29. | ?? |
   - [ C, SDL ]
@@ -156,6 +159,8 @@
   - 기간 : 2014.08.18. | ?? |
   - [ C, SDL ]
   - [ Visual Studio 2013 ]
+
+<br>
 
 ## 진행중인 프로젝트
 - **CUDA 프로그래밍 가이드 제작**
