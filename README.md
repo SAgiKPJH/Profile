@@ -26,7 +26,8 @@
 - Visual Studio 2017, 2019, 2022
 - Arduino
 - Android Studio
-- Jupiter
+- Jupiter, Colab
+- MycroChip Studio
 
 ## 기타사항
 - 개발자 기간 : 2022.08.~ | 1M 3W |
