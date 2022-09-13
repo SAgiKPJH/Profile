@@ -35,6 +35,11 @@
 - 프로그래밍 공부 기간 : 2010년~
 
 ## 제작한 프로젝트
+- **C# WinForm을 이용한 폰트 비교기 제작**  
+  <img src="https://user-images.githubusercontent.com/66783849/189949246-1cb71464-99fb-4017-ae49-dc15475d28f6.png" width="70%">
+  - 기간 : 2022.09.07. | 1h |
+  - [ C# ]
+  - [ Visual Studio 2022, .NET Framework WinForm ]
 - [**Image StereoVision in C++, python**](https://github.com/SagiK-Repository/StereoVision/tree/main/2%2C%203.%20Image%20StereoVision%20in%20PC%20C%2B%2B%20%26%20Python)
   - 기간 : 2022.08.25.~28. | 3d |
   - [ C++, python, OpenCV ]
