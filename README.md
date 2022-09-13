@@ -104,7 +104,7 @@
   - [ Visual Studio 2019, Arduino, Jupiter ]
 - **🎮 MFC 겔러그 게임 만들기**  
   <img src="https://user-images.githubusercontent.com/66783849/189506271-4b18ef23-34f4-4617-927b-480bc5948ec1.png" width="30%">
-  - 기간 : 2021.05.13. | 3h |
+  - 기간 : 2021.05.13. | 6h |
   - [ C++, MFC ]
   - [ Visual Studio 2019 ]
 - **MFC 계산기(Calculator) 만들기**
