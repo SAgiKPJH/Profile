@@ -1,4 +1,4 @@
-# 박주형 Profile
+# SagiKPJH Profile
 
 ## 사용 프로그래밍 언어
 - C
