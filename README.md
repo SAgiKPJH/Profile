@@ -11,7 +11,6 @@
 ## 보조 활용 언어
 - Markdown
 - JSON
-- WPF
 
 ## 사용 라이브러리
 - MFC
@@ -24,6 +23,7 @@
 - EziServo-FASTECH
 - .NET Framework
 - .NET Framework WinForm
+- WPF
 
 ## Programming Tools
 - Visual Studio 2017, 2019, 2022
