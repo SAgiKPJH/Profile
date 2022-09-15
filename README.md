@@ -9,6 +9,8 @@
 - CUDA GPUPU
 
 ## 보조 활용 언어
+- DataBase
+  - MySQL
 - Markdown
 - JSON
 
@@ -27,9 +29,10 @@
 
 ## Programming Tools
 - Visual Studio 2017, 2019, 2022
+- VScode
 - Arduino
 - Android Studio
-- Jupiter, Colab
+- Jupyter, Anaconda, Colab
 - MycroChip Studio
 
 ## 기타사항
