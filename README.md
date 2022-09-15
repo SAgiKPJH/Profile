@@ -42,7 +42,7 @@
 
 ## 제작한 프로젝트
 - **C# WPF MVVM Calculator(계산기) 제작**  
-  <img src="https://user-images.githubusercontent.com/66783849/190351777-36b55a20-c038-43e9-851a-bb230ff939fa.png" width="70%">
+  <img src="https://user-images.githubusercontent.com/66783849/190351777-36b55a20-c038-43e9-851a-bb230ff939fa.png" width="10%">
   - 기간 : 2022.09.15. | 3h |
   - [ C# ]
   - [ Visual Studio 2022, .NET Framework, WPF ]
