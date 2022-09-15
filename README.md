@@ -41,6 +41,10 @@
 - 프로그래밍 공부 기간 : 2010년~
 
 ## 제작한 프로젝트
+- **C# WPF MVVM Calculator(계산기) 제작**
+  - 기간 : 2022.09.15. | 3h |
+  - [ C# ]
+  - [ Visual Studio 2022, .NET Framework, WPF ]
 - **C# WinForm을 이용한 폰트 비교기 제작**  
   <img src="https://user-images.githubusercontent.com/66783849/189949246-1cb71464-99fb-4017-ae49-dc15475d28f6.png" width="10%">
   - 기간 : 2022.09.07. | 1h |
