@@ -33,7 +33,7 @@
 - Arduino
 - Android Studio
 - Jupyter, Anaconda, Colab
-- MycroChip Studio 🐞
+- MicroChip Studio 🐞
 - Docker🐳
 
 ## 개발 가능 환경
