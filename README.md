@@ -33,7 +33,13 @@
 - Arduino
 - Android Studio
 - Jupyter, Anaconda, Colab
-- MycroChip Studio
+- MycroChip Studio 🐞
+- Docker🐳
+
+## 개발 가능 환경
+- Windows
+- Linux
+  - Ubuntu
 
 ## 기타사항
 - 개발자 기간 : 2022.08.~ | 1M 3W |
