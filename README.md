@@ -47,7 +47,7 @@
 - 프로그래밍 공부 기간 : 2010년~
 
 ## 제작한 프로젝트
-- [** 🎬 Python을 활용한 영상편집 도우미(소리나는 부분만 자르는 프로그램)제작**](https://github.com/SAgiKPJH/SAGI_JJU-JJUCODE-/tree/main/Project/01%20%EC%98%81%EC%83%81%ED%8E%B8%EC%A7%91%20%EB%8F%84%EC%9A%B0%EB%AF%B8%20in%20python)
+- [🎬 **Python을 활용한 영상편집 도우미(소리나는 부분만 자르는 프로그램)제작**](https://github.com/SAgiKPJH/SAGI_JJU-JJUCODE-/tree/main/Project/01%20%EC%98%81%EC%83%81%ED%8E%B8%EC%A7%91%20%EB%8F%84%EC%9A%B0%EB%AF%B8%20in%20python)
   - 기간 : 2022.09.20. | 4w (8d) |
   - [ Python ]
   - [ VScode, Jupyter Notebook ]
