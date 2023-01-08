@@ -205,7 +205,7 @@
 - **유전자 알고리즘을 활용한 나무 제작**
   - 기간 : 2022.01.~ |  |
   - [ C#, Unity ]
-  - [ Unity, Visual Studio 2019, 2022, VScode ]
+  - [ Unity, Visual Studio 2019, 2022, VScode ] [ + DDD Unit_Test MVVM ]
 - [**Raspberry-Pi를 활용한 StreoVision**](https://github.com/SagiK-Repository/StereoVision)
   - 기간 : ..~ |  |
   - [ C, OpenCV, Python ]
@@ -217,4 +217,4 @@
 - [**WPF DevExpress MVVM ArtistHelper**](https://github.com/SagiK-Repository/WPF_DevExpress_MVVM_ArtistHelper/tree/main/%EA%B5%AC)
   - 기간 : 2022.11.06.~ |  |
   - [ C#, WPF, DevExpress ]
-  - [ Visual Studio 2022 ] [ DDD, Unit Test, MVVM ]
+  - [ Visual Studio 2022 ] [ DDD Unit_Test MVVM ]
