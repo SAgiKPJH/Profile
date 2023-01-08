@@ -192,7 +192,7 @@
 <br>
 
 ## 진행중인 프로젝트
-- **CUDA 프로그래밍 가이드 제작**
+- [**CUDA 프로그래밍 가이드 제작**](https://github.com/SagiK-Repository/CUDA_GPUPU_Programming)
   - 기간 : 2022.01.~06. | 5M |
   - [ C, CUDA GPUPU ]
   - [ Visual Studio 2019, 2022 ]
