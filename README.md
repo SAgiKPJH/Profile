@@ -26,6 +26,8 @@
 - .NET Framework
 - .NET Framework WinForm
 - WPF
+- DevExpress WPF
+- xUnit
 
 ## Programming Tools
 - Visual Studio 2017, 2019, 2022
