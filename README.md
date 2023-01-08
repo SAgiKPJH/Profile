@@ -214,7 +214,7 @@
   - 기간 : ..~ |  |
   - [ C, OpenCV, Python ]
   - [ - ]
-- **WPF DevExpress MVVM ArtistHelper**
+- [**WPF DevExpress MVVM ArtistHelper**](https://github.com/SagiK-Repository/WPF_DevExpress_MVVM_ArtistHelper/tree/main/%EA%B5%AC)
   - 기간 : 2022.11.06.~ |  |
   - [ C#, WPF, DevExpress ]
   - [ Visual Studio 2022 ] [ DDD, Unit Test, MVVM ]
