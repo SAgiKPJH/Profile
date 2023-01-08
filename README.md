@@ -204,7 +204,7 @@
   - 기간 : 2022.03.~ |  |
   - [ C, Darknet ]
   - [ Visual Studio 2019, 2022, Darknet ]
-- **유전자 알고리즘을 활용한 나무 제작**
+- [**유전자 알고리즘을 활용한 나무 제작**](https://github.com/SagiK-Repository/Genetic_Algorithm_Unity_Tree)
   - 기간 : 2022.01.~ |  |
   - [ C#, Unity ]
   - [ Unity, Visual Studio 2019, 2022, VScode ] [ + DDD Unit_Test MVVM ]
