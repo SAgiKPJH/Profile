@@ -49,6 +49,12 @@
 - 프로그래밍 공부 기간 : 2010년~
 
 ## 제작한 프로젝트
+- ⭐Server Log Analyzer 제작  
+  <img src="https://user-images.githubusercontent.com/66783849/211713026-3eb25af7-0adf-4937-9c7c-a4895460f53e.png" width="10%">  
+  - 기간 : 2022.10. - 2023.01. | 3m |
+  - [ C# ]
+  - [ Visual Studio 2022, .Net Framework 4.7, WPF, DevExpress ]
+  - [ FTP, SFTP ]
 - [🎬 **Python을 활용한 영상편집 도우미(소리나는 부분만 자르는 프로그램)제작**](https://github.com/SAgiKPJH/SAGI_JJU-JJUCODE-/tree/main/Project/01%20%EC%98%81%EC%83%81%ED%8E%B8%EC%A7%91%20%EB%8F%84%EC%9A%B0%EB%AF%B8%20in%20python)
   - 기간 : 2022.09.20.~10.19. | 4w (8d) |
   - [ Python ]
