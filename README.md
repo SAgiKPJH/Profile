@@ -53,7 +53,7 @@
   <img src="https://user-images.githubusercontent.com/66783849/259630589-f80e3313-dcd1-4a66-9226-4a4156ffdb21.png" width="10%">  
   - 기간 : 2023.06.12. - 08.10. | -- |
   - [ C# ]
-  - [ WPF, DevExpress ]
+  - [ WPF, MVVM, DevExpress ]
   - [ Visual Studio 2022, .Net Framework 4.7 ]
 - [🐳Docker VSCode Server](https://github.com/SagiK-Repository/Docker_VSCode)
   - 기간 : 2023.04.27. - 05.04. | 1w |
