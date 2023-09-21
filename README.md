@@ -49,6 +49,8 @@
 - 프로그래밍 공부 기간 : 2010년~
 
 ## 제작한 프로젝트
+- [🐳Docker Grafana-Prometheus CPU, Memory, Network, GPU Monitoring 구축](https://github.com/SagiK-Repository/Monitoring)
+  - 기간 : 2023.08.25. - 09.05. | -- |
 - [PBM_Reader](https://github.com/SagiK-Repository/PBM_Reader)  
   <img src="https://user-images.githubusercontent.com/66783849/259630589-f80e3313-dcd1-4a66-9226-4a4156ffdb21.png" width="10%">  
   - 기간 : 2023.06.12. - 08.10. | -- |
