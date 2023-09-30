@@ -44,13 +44,18 @@
   - Ubuntu
 
 ## 기타사항
-- 개발자 기간 : 2022.08.~ | 5M |
+- 개발자 기간 : 2022.08.~ | 1W 2M |
 - 개발자 단계 : 신입개발자
 - 프로그래밍 공부 기간 : 2010년~
 
 ## 제작한 프로젝트
+- [Docker_AI_Tensorflow_Python_Web_Service](https://github.com/SagiK-Repository/Number_Python_Docker_API)
+  - 기간 : 2023.03.13.~09.29. | 5d |
+  - [ python, html, java ]
+  - [ Docker, Tensorflow, Apache2, Flask ]
 - [🐳Docker Grafana-Prometheus CPU, Memory, Network, GPU Monitoring 구축](https://github.com/SagiK-Repository/Monitoring)
   - 기간 : 2023.08.25. - 09.05. | -- |
+  - [ Docker, Docker-Compose ]
 - [PBM_Reader](https://github.com/SagiK-Repository/PBM_Reader)  
   <img src="https://user-images.githubusercontent.com/66783849/259630589-f80e3313-dcd1-4a66-9226-4a4156ffdb21.png" width="10%">  
   - 기간 : 2023.06.12. - 08.10. | -- |
