@@ -49,7 +49,12 @@
 - 프로그래밍 공부 기간 : 2010년~
 
 ## 제작한 프로젝트
-- [Docker_AI_Tensorflow_Python_Web_Service](https://github.com/SagiK-Repository/Number_Python_Docker_API)
+- [🐳Docker_AI_Image_RemovePart_Service](https://github.com/SagiK-Repository/Docker_AI_Image_RemovePart_Service)
+  - 기간 : 2023.12.19.~2024.01.04 | 1M |
+  - [ python, html, java ]
+  - [ Docker, Tensorflow, Apache2, Flask ]
+  - [ Lama ]
+- [🐳Docker_AI_Tensorflow_Python_Web_Service](https://github.com/SagiK-Repository/Number_Python_Docker_API)
   - 기간 : 2023.03.13.~09.29. | 5d |
   - [ python, html, java ]
   - [ Docker, Tensorflow, Apache2, Flask ]
